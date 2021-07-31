@@ -1,4 +1,3 @@
-
 #! /bin/bash -x
 declare -a dailyWage
 isPresentFull=1;
